@@ -21,8 +21,5 @@
   ],
   "require": {
     "drupal/jquery_ui": "^1.0"
-  },
-  "suggest": {
-    "furf/jquery-ui-touch-punch": "Required to use drupal/jquery_ui_touch_punch module."
   }
 }
